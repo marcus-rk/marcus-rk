@@ -77,13 +77,14 @@ An AI-based tool for generating Christmas gift ideas.
 - **System Development**
 - **Cloud Computing**
 
+Learn more about my education at [KEA Study Program](https://studieordninger.kea.dk/2023/27/176)
+
 ---
 
 ## 💼 **Interested in Internships or Job Opportunities?**
 
 I am soon seeking internship or job opportunities where I can apply my skills in software architecture, cloud computing, and system development. If you're looking for someone who is passionate about solving complex technical problems and contributing to innovative solutions, let’s connect!
-
-- **LinkedIn:** [Marcus-rk](https://www.linkedin.com/in/marcus-rk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-rk)
 
 ---
 
