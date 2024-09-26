@@ -2,24 +2,27 @@
 
 I’m a passionate **IT Architecture** student with a deep focus on designing scalable, efficient systems that align with business needs. I love solving complex problems through clean, efficient code and innovative software architecture. Currently, I’m mastering **Cloud Computing**, **AI technologies**, and **agile methodologies** to stay ahead of industry trends and contribute meaningfully to the tech world.
 
-## 🚀 **What I'm Working On**
+## 📑**Some of my projects**
 
-I'm dedicated to building cutting-edge, real-world applications and honing my skills in it architecture, AI, and software development. Some of my recent projects include:
+I focus on delivering innovative, real-world applications while strengthening my skills in IT architecture, AI, and full-stack software development. Below are some key projects that demonstrate my technical proficiency and problem-solving abilities:
 
 ### 🎵 [Beatmaker - An Online Sequencer](https://github.com/marcus-rk/beatmaker)
 An interactive web application for creating beats and rhythms.  
-- **Tech Stack**: HTML, CSS, JavaScript, Web Audio API  
+- **Tech Stack**: HTML, CSS, JavaScript, Web Audio API
+- **Skills**: Interactive UI design, Web Audio API for sound manipulation, front-end development.  
 - **Description**: Beatmaker allows users to create custom beats using different instrument sounds, control tempo, and build sequences. This project demonstrates my ability to build engaging, user-centric web applications.
 
 ### 💻 [Code Snippet API](https://github.com/marcus-rk/code-snippet-v2)
-A platform for sharing and favoriting code snippets.  
-- **Tech Stack**: JavaScript, Node.js, Express, MySQL, HTML, CSS  
-- **Description**: Users can create accounts, share their code snippets, and favorite others’ code. Built with a fully functioning backend using **Node.js** and **MySQL**, this project highlights my experience in full-stack development.
+A full-stack platform for sharing and favoriting code snippets. 
+- **Tech Stack**: JavaScript, Node.js, Express, MySQL, HTML, CSS
+- **Skills**: Full-stack development, RESTful API design, relational databases (MySQL), authentication systems, Interactive UI design
+- **Description**: Users can create accounts, share their code snippets, and favorite others’ code. Built with a fully functioning backend using Node.js and MySQL, this project highlights my experience in full-stack development.
 
 ### 🎄 [AI Christmas Gift Generator](https://github.com/marcus-rk/generative-ai)
 An AI-based tool for generating Christmas gift ideas.  
-- **Tech Stack**: HTML, CSS, JavaScript, Hugging Face API  
-- **Description**: Users can input details like age, gift type, and keywords, and the AI generates gift ideas. This project showcases my skills in integrating **AI** with web technologies.
+- **Tech Stack**: HTML, CSS, JavaScript, Hugging Face API
+- **Skills**: AI integration, API management, web-based AI applications.
+- **Description**: Users input preferences like age and gift type, and the AI generates personalized gift ideas. This project highlights my capability to integrate AI technologies (via Hugging Face API) into practical web-based solutions.
 
 ---
 
@@ -38,6 +41,7 @@ An AI-based tool for generating Christmas gift ideas.
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Camunda](https://img.shields.io/badge/Camunda-FFCC00?style=for-the-badge&logo=camunda&logoColor=black)
+![Retrofit](https://img.shields.io/badge/Retrofit-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -52,36 +56,38 @@ An AI-based tool for generating Christmas gift ideas.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![BPMN](https://img.shields.io/badge/BPMN-000000?style=for-the-badge&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 
 ## 📘 **Completed Courses**
 
 ### 1st Semester
-- **Understanding Data**
-- **Database Design**
-- **Web Technology**
-- **Visualization & Aesthetics**
-- **Digital Culture 1**
+- Understanding Data
+- Database Design
+- Web Technology
+- Visualization & Aesthetics
+- Digital Culture 1
 
 ### 2nd Semester
-- **Application Development**
-- **User Involvement & Design**
-- **Agile Development (DevOps)**
-- **Digital Culture 2**
+- Application Development
+- User Involvement & Design
+- Agile Development (DevOps)
+- Digital Culture 2
 
 ### 3rd Semester
-- **Software Architecture**
-- **Business Design & Analytics**
-- **System Development**
-- **Cloud Computing**
+- Software Architecture
+- Business Design & Analytics
+- System Development
+- Cloud Computing
 
 Learn more about my education at [KEA Study Program](https://studieordninger.kea.dk/2023/27/176)
 
 ---
 
-## 💼 **Interested in Internships or Job Opportunities?**
+## 💼 **I'm interested in Internships and Job Opportunities**
 
 I am soon seeking internship or job opportunities where I can apply my skills in software architecture, cloud computing, and system development. If you're looking for someone who is passionate about solving complex technical problems and contributing to innovative solutions, let’s connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-rk)
