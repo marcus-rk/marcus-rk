@@ -80,9 +80,10 @@ Learn more about my education at [KEA Study Program](https://studieordninger.kea
 
 ---
 
-## 💼 **I'm interested in Internships and Job Opportunities**
+## 💼 **Internship & Job Opportunities**
 
-I am soon seeking internship or job opportunities where I can apply my skills in software architecture, cloud computing, and system development. If you're looking for someone who is passionate about solving complex technical problems and contributing to innovative solutions, let’s connect!
+I am actively seeking internships and job opportunities, where I can leverage my skills in software architecture and software development. If you're looking for a dedicated intern who is eager to learn and tackle real-world challenges, let’s connect!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-rk)
 
 ---
