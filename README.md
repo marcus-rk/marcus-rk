@@ -2,7 +2,7 @@
 
 I’m a passionate **IT Architecture** student with a deep focus on designing scalable, efficient systems that align with business needs. I love solving complex problems through clean, efficient code and innovative software architecture. Currently, I’m mastering **Cloud Computing**, **AI technologies**, and **agile methodologies** to stay ahead of industry trends and contribute meaningfully to the tech world.
 
-## 📑**Some of my projects**
+## 📑 **Some of my projects**
 
 I focus on delivering innovative, real-world applications while strengthening my skills in IT architecture, AI, and full-stack software development. Below are some key projects that demonstrate my technical proficiency and problem-solving abilities:
 
@@ -23,6 +23,12 @@ An AI-based tool for generating Christmas gift ideas.
 - **Tech Stack**: HTML, CSS, JavaScript, Hugging Face API
 - **Skills**: AI integration, API management, web-based AI applications.
 - **Description**: Users input preferences like age and gift type, and the AI generates personalized gift ideas. This project highlights my capability to integrate AI technologies (via Hugging Face API) into practical web-based solutions.
+
+### 🐦 [Reddit Scraping Tool](https://github.com/marcus-rk/reddit-scraping?tab=readme-ov-file#reddit-scraping-tool)
+A Kotlin-based application that scrapes comments from Reddit posts and exports them to Excel files.  
+- **Tech Stack**: Kotlin, Selenium, Apache POI
+- **Skills**: Web scraping, data handling, automation, Excel file management.
+- **Description**: This tool extracts comments from various Reddit posts and compiles them into `.xlsx` files, demonstrating proficiency in web automation and data manipulation. The project showcases my ability to implement robust data handling techniques and highlights my skills in modern programming practices.
 
 ---
 
@@ -64,24 +70,11 @@ An AI-based tool for generating Christmas gift ideas.
 
 ## 📘 **Completed Courses**
 
-### 1st Semester
-- Understanding Data
-- Database Design
-- Web Technology
-- Visualization & Aesthetics
-- Digital Culture 1
-
-### 2nd Semester
-- Application Development
-- User Involvement & Design
-- Agile Development (DevOps)
-- Digital Culture 2
-
-### 3rd Semester
-- Software Architecture
-- Business Design & Analytics
-- System Development
-- Cloud Computing
+| Semester        | Courses                                                                          | Focus Overview                                                                                                         |
+|-----------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **1st Semester**| - Understanding Data  <br> - Database Design  <br> - Web Technology  <br> - Visualization & Aesthetics  <br> - Digital Culture 1 | Data Visualization: Understanding data and how technology impacts society.                                           |
+| **2nd Semester**| - Application Development  <br> - User Involvement & Design  <br> - Agile Development (DevOps)  <br> - Digital Culture 2 | Application Development: Building applications and managing data processes.                                         |
+| **3rd Semester**| - Software Architecture  <br> - Business Design & Analytics  <br> - System Development  <br> - Cloud Computing | System Integration: Exploring how IT systems interact with business processes.                                       |
 
 Learn more about my education at [KEA Study Program](https://studieordninger.kea.dk/2023/27/176)
 
