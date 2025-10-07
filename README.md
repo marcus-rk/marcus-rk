@@ -1,19 +1,15 @@
 # Hi there, I'm Marcus! 👋  
 
-I’m a **5th semester IT-Architecture student at Business Academy Copenhagen (formerly KEA & Cphbusiness)**.  
-My focus is on **bridging implementation and design**: creating clarity in complex systems, turning user needs into solutions, and learning how to scale and integrate technology effectively.  
+I’m a **5th semester IT-Architecture student at Business Academy Copenhagen**, where I explore how systems are **designed, integrated, and scaled** — always with the goal of turning real user needs into practical, maintainable solutions.
 
----
+My work sits at the crossroads of **implementation and design**: I enjoy bringing structure to complexity, documenting clearly, and finding the balance between technical depth and architectural overview.
 
-## 📘 Courses & Learning Journey  
+Currently, I’m building experience in:
+- **System development & integration**
+- **Architecture & modelling** (UML, BPMN, process design)
+- **Agile collaboration and technical communication**
 
-| Semester        | Courses                                                                                          | Focus Area                                                                                  |
-|-----------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| **1st**         | Understanding Data • Database Design • Web Technology • Visualization & Aesthetics • Digital Culture 1 | Fundamentals: data, web, and how tech impacts society                                       |
-| **2nd**         | Application Development • User Involvement & Design • Agile Development (DevOps) • Digital Culture 2 | Application development and user-focused design                                             |
-| **3rd**         | Software Architecture • Business Design & Analytics • System Development • Cloud Computing       | Systems & business alignment, architecture foundations, cloud                               |
-| **4th**         | IT Infrastructure • IT Architecture • Enterprise Architecture • Project Monitoring • Project Management • System Design | Enterprise-level architecture, infrastructure, project governance                          |
-| **5th**         | Databases for Developers • Software Testing • Web Security                                      | Secure, scalable backend systems; testing and quality practices                             |
+I’m **curious by nature** and motivated to keep learning — especially through hands-on projects and professional settings that connect code, architecture, and people.
 
 ---
 
@@ -81,13 +77,15 @@ Automation tool for extracting Reddit comments and exporting to Excel.
 
 ---
 
-## 🧭 Competence Areas  
+## 📘 Courses & Learning Journey  
 
-- **System architecture & integration** – microservices, APIs, deployment patterns  
-- **Data modelling & databases** – SQL, NoSQL (MySQL, MongoDB, Neo4j)  
-- **Software quality & security** – testing practices, CI/CD pipelines, secure design  
-- **Analysis & modelling** – UML, BPMN, enterprise methods  
-- **Development foundations** – web, backend, and cloud  
+| Semester        | Courses                                                                                          | Focus Area                                                                                  |
+|-----------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| **1st**         | Understanding Data • Database Design • Web Technology • Visualization & Aesthetics • Digital Culture 1 | Fundamentals: data, web, and how tech impacts society                                       |
+| **2nd**         | Application Development • User Involvement & Design • Agile Development (DevOps) • Digital Culture 2 | Application development and user-focused design                                             |
+| **3rd**         | Software Architecture • Business Design & Analytics • System Development • Cloud Computing       | Systems & business alignment, architecture foundations, cloud                               |
+| **4th**         | IT Infrastructure • IT Architecture • Enterprise Architecture • Project Monitoring • Project Management • System Design | Enterprise-level architecture, infrastructure, project governance                          |
+| **5th**         | Databases for Developers • Software Testing • Web Security                                      | Secure, scalable backend systems; testing and quality practices                             |
 
 ---
 
