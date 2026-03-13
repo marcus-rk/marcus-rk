@@ -1,54 +1,53 @@
 # 📍 Marcus R. Kjærsgaard - IT Architecture (Student)
 
-I study **IT Architecture at Business Academy Copenhagen** and work where **business goals, system design, and implementation** meet.
+I study **IT Architecture at Business Academy Copenhagen** and work best where **system design, implementation, and structured problem solving** meet.
 
-Currently interning at **Danske Bank - Large Corporate & Execution (Business & Strategy)**, getting hands-on experience with how enterprise work actually happens: stakeholders, governance, delivery constraints, and decisions that must survive reality.
+Currently interning at **Danske Bank - Large Corporates & Institutions (Project Execution, Strategy & Development)**, where I work in a large enterprise environment shaped by creating structure around system dependencies, parallel test activities and project artifacts in work involving mainframe migrations, new system introduction, and coordination across multiple teams.
 
-I enjoy translating “we need X” into:
-- clear **system boundaries and models** (UML/BPMN)
-- practical **APIs + data designs**
-- solutions that are **secure, maintainable, and testable**
+I enjoy translating complex technical problems into:
+- clear **system structures and models** (UML/BPMN)
+- practical **APIs, databases, and solution designs**
+- solutions that are **maintainable, testable, and well-structured**
 
 ---
 
 ## 🎯 Current focus
-- **Architecture & modelling:** UML, BPMN, system boundaries, documentation that people *use*
-- **Secure backend design:** auth, input validation, threat-driven controls
-- **Quality engineering:** testing from unit → integration → E2E, CI fundamentals
-- **Data & integration:** relational/document/graph trade-offs, migrations, API contracts
+- **Software development & system design:** backend logic, APIs, maintainable architecture, and implementation-oriented thinking
+- **Secure backend design:** authentication, validation, access control, and security-aware application structure
+- **Quality engineering:** testing across levels, structured QA thinking, and building systems that are testable by design
+- **Data & integration:** relational/document/graph trade-offs, API contracts, and system dependencies across services
 
 ---
 
 ## 📌 Selected projects
 
 ### 🔐 [SecureLeak](https://github.com/marcus-rk/SecureLeak)
-A “fun meta” vulnerability/bug tracker built as a security-by-design playground: the app itself is the lesson.  
-Focus is **OWASP Top 10-style mitigations** and layered controls rather than just “feature shipping”.
-- Hardened auth (modern hashing + safe session/cookie practices)
-- CSRF protection, XSS mitigations (templates + headers/policies), safer access control patterns
-- SQL injection prevention via safe DB access patterns
-- Secure file upload handling (validation + safe handling)
-- Rate limiting + logging/auditability to support abuse resistance and traceability  
+Security-focused web application for bug and issue tracking, built to practice **secure backend design, maintainable application structure, and threat-aware development**.
+- Layered Flask application with repository-based data access and separated routing
+- Security controls around authentication, file handling, auditability, and common web vulnerabilities
+- Built with testing and documentation as part of the solution, not only as afterthoughts  
 **Stack:** Python • Flask • SQLite • pytest
 
 ### 💱 [Multi-Currency Wallet Simulator](https://github.com/marcus-rk/Multi-Currency-Wallet-Simulator)
-Backend-first wallet simulator with deposits, withdrawals, exchange, and transaction history — built to be **cleanly testable and integration-friendly**.
-- Clear separation: domain rules vs services vs persistence (easier change + easier testing)
-- External FX rates integration designed to be test-stubbable (no flaky tests)
-- Strong testing focus across levels (API tests, E2E, performance tooling, etc.)  
+Wallet simulation system built as a **testing- and quality-focused project**, where the application itself is used to practice structured testing across multiple levels.
+- REST API and minimal frontend for deposits, withdrawals, exchange, and transaction history
+- Strong emphasis on black-box, white-box, API, E2E, and performance testing
+- Designed to show how development and quality assurance work together in a complete system  
 **Stack:** Python • Flask • SQLite • Docker • testing toolchain
 
 ### 🎬 [Movie Rental — Polyglot Persistence API](https://github.com/DBD-Movie-Rental/movie-rental-main)
-Same movie-rental domain exposed through one API, implemented across **MySQL, MongoDB, and Neo4j**.  
-The point is to show what changes when the storage model changes — and how you keep an API contract stable.
-- Three implementations side-by-side (relational / document / graph)
-- Migration scripts between stores + seeding
-- OpenAPI/Swagger + Docker Compose to run the whole system locally  
+Movie rental domain implemented across **MySQL, MongoDB, and Neo4j** to compare how the same system can be modeled in relational, document, and graph databases.
+- Same domain represented across multiple database paradigms
+- Focus on data modeling, trade-offs, and how storage choices affect structure and querying
+- Exposed through a Flask API and containerized for local execution  
 **Stack:** Flask • MySQL • MongoDB • Neo4j • OpenAPI/Swagger • Docker Compose
 
-### 🎵 [Beatmaker — Online Sequencer](https://github.com/marcus-rk/beatmaker)
-Interactive browser sequencer for creating rhythms. Built to practice **UI flow, responsiveness, and turning user interactions into a coherent experience**.  
-**Stack:** JavaScript • HTML • CSS
+### 🚗 [Bilabonnement](https://github.com/Gruppe-H-Bilabonnement)
+Cloud-based microservice project for a car subscription platform, focused on **service boundaries, API integration, and maintainable system design**.
+- Structured around an API Gateway and separate services for cars, rentals, and damage handling
+- Built to explore microservices, API communication, and cloud-ready deployment
+- Stronger focus on architecture and integration than on a single feature set  
+**Stack:** Python • Flask • Docker • REST APIs • GitHub Actions • Azure
 
 ---
 
