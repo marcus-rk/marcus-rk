@@ -1,108 +1,125 @@
-# 📍 Marcus R. Kjærsgaard - IT Architecture (Student)
+# 📍 Marcus R. Kjærsgaard
 
-I study **IT Architecture at Business Academy Copenhagen** and work best where **system design, implementation, and structured problem solving** meet.
+> Junior Software Developer · IT Architecture, final semester · Copenhagen
 
-Currently interning at **Danske Bank - Large Corporates & Institutions (Project Execution, Strategy & Development)**, where I work in a large enterprise environment shaped by creating structure around system dependencies, parallel test activities and project artifacts in work involving mainframe migrations, new system introduction, and coordination across multiple teams.
+Current portfolio projects spans from security-focused backends, test design, database modelling, APIs, and microservices. I’m interested in what sits behind a feature: its data, interfaces, dependencies, failure cases, and the people who need to work with it afterwards.
 
-I enjoy translating complex technical problems into:
-- clear **system structures and models** (UML/BPMN)
-- practical **APIs, databases, and solution designs**
-- solutions that are **maintainable, testable, and well-structured**
+I am currently a Junior Software Developer at [ZRM](https://www.zrm.dk/) while completing my Professional Bachelor’s Degree in IT Architecture at EK, Business Academy Copenhagen.
+
+---
+
+## 🧭 Where I am now
+
+| | |
+|---|---|
+| **Work** | Junior Software Developer — integrations, automation, and custom client solutions |
+| **Study** | Final semester of the Professional Bachelor’s Degree in IT Architecture at EK |
+| **Recent experience** | Six-month internship in Danske Bank’s Project Execution, Strategy & Development team |
 
 ---
 
 ## 🎯 Current focus
-- **Software development & system design:** backend logic, APIs, maintainable architecture, and implementation-oriented thinking
-- **Secure backend design:** authentication, validation, access control, and security-aware application structure
-- **Quality engineering:** testing across levels, structured QA thinking, and building systems that are testable by design
-- **Data & integration:** relational/document/graph trade-offs, API contracts, and system dependencies across services
+
+- **Backend & integrations:** APIs, workflows, data exchange, and custom development
+- **Software quality:** testing, validation, and systems that are easier to change with confidence
+- **Data & system design:** database modelling, contracts between services, and the dependencies around them
+- **Security-aware development:** authentication, access control, file handling, and threat-aware application structure
+
+Current work includes Zoho One development, custom Deluge functionality, workflows, testing, APIs, and integrations. Some client needs are solved in the platform; others are built from scratch.
+
+I am also an **Anthropic Claude Certified Architect** and have completed xUnlocked’s AI and Data Foundations and Data and AI Essentials programmes.
 
 ---
 
 ## 📌 Selected projects
 
 ### 🔐 [SecureLeak](https://github.com/marcus-rk/SecureLeak)
-Security-focused web application for bug and issue tracking, built to practice **secure backend design, maintainable application structure, and threat-aware development**.
-- Layered Flask application with repository-based data access and separated routing
-- Security controls around authentication, file handling, auditability, and common web vulnerabilities
-- Built with testing and documentation as part of the solution, not only as afterthoughts  
-**Stack:** Python • Flask • SQLite • pytest
+
+A Flask issue-tracking application built around authentication, safe file handling, audit trails, and a layered backend. The project gave security controls a place in the application structure from the start.
+
+**Stack:** Python · Flask · SQLite · pytest
 
 ### 💱 [Multi-Currency Wallet Simulator](https://github.com/marcus-rk/Multi-Currency-Wallet-Simulator)
-Wallet simulation system built as a **testing- and quality-focused project**, where the application itself is used to practice structured testing across multiple levels.
-- REST API and minimal frontend for deposits, withdrawals, exchange, and transaction history
-- Strong emphasis on black-box, white-box, API, E2E, and performance testing
-- Designed to show how development and quality assurance work together in a complete system  
-**Stack:** Python • Flask • SQLite • Docker • testing toolchain
+
+A REST API and small frontend for deposits, withdrawals, exchange, and transaction history. Testing covers black-box, white-box, API, end-to-end, and performance perspectives.
+
+**Stack:** Python · Flask · SQLite · Docker · testing toolchain
 
 ### 🎬 [Movie Rental — Polyglot Persistence API](https://github.com/DBD-Movie-Rental/movie-rental-main)
-Movie rental domain implemented across **MySQL, MongoDB, and Neo4j** to compare how the same system can be modeled in relational, document, and graph databases.
-- Same domain represented across multiple database paradigms
-- Focus on data modeling, trade-offs, and how storage choices affect structure and querying
-- Exposed through a Flask API and containerized for local execution  
-**Stack:** Flask • MySQL • MongoDB • Neo4j • OpenAPI/Swagger • Docker Compose
+
+The same movie-rental domain modelled in MySQL, MongoDB, and Neo4j. Using the same problem across relational, document, and graph databases made the effects of storage choices on modelling and querying concrete.
+
+**Stack:** Flask · MySQL · MongoDB · Neo4j · OpenAPI/Swagger · Docker Compose
 
 ### 🚗 [Bilabonnement](https://github.com/Gruppe-H-Bilabonnement)
-Cloud-based microservice project for a car subscription platform, focused on **service boundaries, API integration, and maintainable system design**.
-- Structured around an API Gateway and separate services for cars, rentals, and damage handling
-- Built to explore microservices, API communication, and cloud-ready deployment
-- Stronger focus on architecture and integration than on a single feature set  
-**Stack:** Python • Flask • Docker • REST APIs • GitHub Actions • Azure
+
+A car-subscription platform structured around an API Gateway and separate services for cars, rentals, and damage handling. The project centres on service boundaries and communication between services.
+
+**Stack:** Python · Flask · REST APIs · Docker · GitHub Actions · Azure
 
 ---
 
-## 🛠 Tech stack & tools (badges because yes)
+## 🛠 Tech stack & tools
 
 ### Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Backend & APIs
+### Backend & integrations
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Swagger](https://img.shields.io/badge/OpenAPI%2FSwagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Zoho One](https://img.shields.io/badge/Zoho_One-C8202F?style=for-the-badge&logo=zoho&logoColor=white)
+![Deluge](https://img.shields.io/badge/Deluge-C8202F?style=for-the-badge&logo=zoho&logoColor=white)
 
 ### Data
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 
-### DevOps & testing/tooling
+### Delivery, testing & modelling
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![UML](https://img.shields.io/badge/UML-02569B?style=for-the-badge)
+![BPMN](https://img.shields.io/badge/BPMN-000000?style=for-the-badge)
+![Camunda](https://img.shields.io/badge/Camunda-FC5D0D?style=for-the-badge&logo=camunda&logoColor=white)
 
-### Modelling & architecture
-![UML](https://img.shields.io/badge/UML-02569B?style=for-the-badge&logoColor=white)
-![BPMN](https://img.shields.io/badge/BPMN-000000?style=for-the-badge&logoColor=white)
-![Camunda](https://img.shields.io/badge/Camunda-FFCC00?style=for-the-badge&logo=camunda&logoColor=black)
-
----
-
-## 📘 Semester overview (courses + what I took from them)
-
-| Semester | Courses | What I learned / practiced |
-|---|---|---|
-| **1st** | Understanding Data • Database Design • Web Tech • Visualization & Aesthetics • Digital Culture 1 | Data basics, relational thinking, building for users (not just for code), communicating visually |
-| **2nd** | App Development • User Involvement & Design • Agile Development • Digital Culture 2 | User-centered development, iterative delivery, requirement shaping, teamwork rhythms |
-| **3rd** | Software Architecture • Business Design & Analytics • System Development • Cloud Computing | Architecture foundations, aligning systems to business goals, cloud as design constraints |
-| **4th** | IT Infrastructure • IT Architecture • Enterprise Architecture • Project Monitoring/Management • System Design | Enterprise-level thinking: systems-of-systems, governance, documentation, and delivery trade-offs |
-| **5th** | Software Testing • Security for Web Developers • Advanced Databases | Quality as a system property, threat-aware design, database design beyond CRUD (performance, consistency, modeling) |
+![Anthropic Claude Certified Architect](https://img.shields.io/badge/Anthropic-Claude_Certified_Architect-D97757?style=for-the-badge)
 
 ---
 
-## 🔗 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-rk)
+<details>
+<summary><strong>📘 Education and coursework</strong></summary>
+
+<br>
+
+**Professional Bachelor’s Degree in IT Architecture**  
+EK, Business Academy Copenhagen
+
+| Semester | Focus |
+|---|---|
+| **1st** | Understanding Data · Database Design · Web Technology · Visualization & Aesthetics · Digital Culture 1 |
+| **2nd** | Application Development · User Involvement & Design · Agile Development · Digital Culture 2 |
+| **3rd** | Software Architecture · Business Design & Analytics · System Development · Cloud Computing |
+| **4th** | IT Infrastructure · IT Architecture · Enterprise Architecture · Project Monitoring & Management · System Design |
+| **5th** | Databases for Developers · Software Testing · Web Security |
+| **6th** | Internship at Danske Bank — Project Execution, Strategy & Development |
+| **7th — current** | Philosophy of Science · Bachelor Project |
+
+</details>
 
 ---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcus-rk&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcus-rk&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcus-rk&theme=github)
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-rk)
